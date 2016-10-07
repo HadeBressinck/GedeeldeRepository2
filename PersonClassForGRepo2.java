@@ -1,6 +1,6 @@
 public class Person {
 
-	private int firstName;
+	private String firstName;
 	private String LastName;
 	
 	public static void main(String[] args){
